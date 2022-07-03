@@ -1,0 +1,6 @@
+{
+  "appId": "bored.launcher",
+  "appName": "bored-launcher",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
